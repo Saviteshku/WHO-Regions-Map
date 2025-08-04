@@ -1,4 +1,4 @@
-# WHO Geographical Regions Map
+# WHO Geographical Regions Map (⭐ Star Us!)
 
 ## Overview
 
