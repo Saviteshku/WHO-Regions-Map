@@ -1,4 +1,4 @@
-# WHO Geographical Regions Map (⭐ Star Us!)
+# WHO (World Health Organisation) Geographical Regions Map Files (⭐ Star Us!)
 
 ## Overview
 
