@@ -16,3 +16,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ⭐ Star Us!
 If you find this project useful, please give it a star on GitHub! Your support helps us improve and maintain this repository. Just click the star button at the top right of this page!
+
+
+## R CODES
+library(sf)
+library(mapview)
+my_sf <- read_sf("/who_regional_boundaries.gpkg")
+mapview(my_sf, zcol = "Region", legend = TRUE)
